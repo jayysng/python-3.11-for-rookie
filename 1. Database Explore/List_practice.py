@@ -3,6 +3,7 @@ import string
 import random
 import os
 
+
 # 1.Database Template
 datbes_template = {
     'ID':'0000000',
